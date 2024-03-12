@@ -31,6 +31,10 @@ To use this ASR system:
 4. Run the Python scripts to perform speech recognition or text-to-speech conversion tasks.
 5. Customize the system according to your specific requirements or integrate it into other projects.
 
+**Catch me**
+
+[Linkedin](https://www.linkedin.com/in/sakavivek911/)
+
 ## Examples
 
 Here are some examples of how to use the ASR system:
@@ -56,6 +60,6 @@ except sr.RequestError as e:
     print("Could not request results from Google Speech Recognition service; {0}".format(e))
 
 
-**Catch me**
-[Linkedin](https://www.linkedin.com/in/sakavivek911/)
+
+
 
